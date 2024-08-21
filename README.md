@@ -13,6 +13,10 @@
     * also... __`pip3 install jupyter`__
     * then, __`jupyter lab`__
   * OR... Visual Studio Code (https://code.visualstudio.com)
+* for Windows...
+  * install Visual Studio Code (https://code.visualstudio.com/)
+  * try to open a Jupyter notebook (like from the materials)...
+  * ...and it should detect that it's a Jupyter notebook and ask you if you want to install the needed extensions
 * Cloud-based solutions (no install needed)
   * https://colab.research.google.com/
   * www.deepnote.com

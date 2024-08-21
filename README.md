@@ -1,8 +1,8 @@
 # salesforce-Python
 
 ## Lunch breaks
-11-11:30 Central / 12-12:30 Eastern
-11-11:30 Pacific / 2-2:30 Eastern
+* 11-11:30 Central / 12-12:30 Eastern
+* 11-11:30 Pacific / 2-2:30 Eastern
 
 ## Materials
 * https://github.com/davewadestein/Python-Fundamentals

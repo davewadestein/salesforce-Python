@@ -15,6 +15,8 @@
   * OR... Visual Studio Code (https://code.visualstudio.com)
 * Cloud-based solutions (no install needed)
   * https://colab.research.google.com/
+  * www.deepcode.com
+  * www.kaggle.com
   * Anaconda Cloud (https://www.anaconda.cloud)
 
 

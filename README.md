@@ -1,7 +1,8 @@
 # salesforce-Python
 
 ## Thursday Poll
-* https://xoyondo.com/op/990ro3c0nz0rakf
+* https://xoyondo.com/op/990ro3c0nz0rakf (feeling)
+* https://xoyondo.com/op/m6xe32ahbvdgk2t (pacing)
   
 ## Lunch breaks
 * 11-11:30 Central / 12-12:30 Eastern

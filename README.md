@@ -1,5 +1,7 @@
 # salesforce-Python
 
+## Friday recording...(in progress)
+
 ## Friday Poll
 * https://xoyondo.com/op/i9wi8a325iacpop
 

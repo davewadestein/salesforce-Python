@@ -1,5 +1,8 @@
 # salesforce-Python
 
+## evaluation for you to fill out, please
+* https://sfdc-bt.plusplus.app/login/?next=/a/surveys/505/
+  
 ## Friday recording...(in progress)
 
 ## Friday Poll

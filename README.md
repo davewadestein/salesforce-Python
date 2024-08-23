@@ -7,10 +7,10 @@
 * https://zoom.us/rec/share/gQU_B7yDgiGkPPJCq0fqXKQX1f7qHD6PNIHLWVRQagD2aAwsYcJEfMmjJtOqqcIf.aQK4TxzANhM3cgA5
 * Passcode: r35V4!qe
   
-## Thursday Poll
-* https://xoyondo.com/op/990ro3c0nz0rakf (feeling)
-* https://xoyondo.com/op/m6xe32ahbvdgk2t (pacing)
-  
+## Thursday Poll Results
+<img width="250" alt="Screenshot 2024-08-23 at 8 01 55 AM" src="https://github.com/user-attachments/assets/d00abc3c-1029-42d4-aa35-2e1240a355e1">
+<img width="150" alt="Screenshot 2024-08-23 at 8 03 15 AM" src="https://github.com/user-attachments/assets/81f863ed-c1d0-4580-ba6c-d72c617ad4b4">
+
 ## Lunch breaks
 * 11-11:30 Central / 12-12:30 Eastern
 * 11-11:30 Pacific / 2-2:30 Eastern

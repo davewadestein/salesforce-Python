@@ -1,5 +1,8 @@
 # salesforce-Python
 
+## Friday Poll
+* https://xoyondo.com/op/i9wi8a325iacpop
+
 ## Wednesday PM Recording
 * https://zoom.us/rec/share/gQU_B7yDgiGkPPJCq0fqXKQX1f7qHD6PNIHLWVRQagD2aAwsYcJEfMmjJtOqqcIf.aQK4TxzANhM3cgA5
 * Passcode: r35V4!qe

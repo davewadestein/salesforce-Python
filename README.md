@@ -3,7 +3,7 @@
 ## evaluation for you to fill out, please
 * https://sfdc-bt.plusplus.app/login/?next=/a/surveys/505/
   
-## Friday recording...(in progress)
+## Friday recording
 * https://zoom.us/rec/share/pTlVgpBgiHJ4GQOr2fkxXRdQ6on9UgbhS_KFWtGrq64R4rxcNPDOMx2JEqpSE0o.bWVlZjdyDBb1raX3
 * Passcode: f$01+dSi
 
